@@ -16,7 +16,7 @@ The AIdirassa Online platform is a multi-agent powered platform designed to crea
 ### Background and Problem Statement
 Morocco's education system faces many challenges that hinder its effectiveness and accessibility.
 Despite significant government investment, poor infrastructure, teacher shortages, outdated curricula, and socio-economic disparities persist.
-![image](\data11.jpg)
+![image](data11.jpg)
 
 
 ### Impact and Proposed Solution
@@ -100,7 +100,7 @@ The backend of the AIdirassa Online platform handles data processing, AI model i
 
 Check out our demo video  to see the AIdirassa Online platform in action. The video showcases the user interface, interactive learning modules, and the dynamic content generation powered by AI agents.
 
-[![Watch the demo](https://drive.google.com/uc?export=view&id=1ex9dpK6kq2eawZvtmPb8w26dfMjF9-1J)](https://drive.google.com/file/d/1ex9dpK6kq2eawZvtmPb8w26dfMjF9-1J/view)
+[[Watch the demo]](https://drive.google.com/file/d/1ex9dpK6kq2eawZvtmPb8w26dfMjF9-1J/view)
 
 ## Getting Started
 
@@ -211,3 +211,13 @@ uvicorn main:app --reload
 
 5. **Access the Platform:**
 Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the home page (index.html).
+
+if you face any difficulties please get in touch with one of us :
+
+[Oussama Qouti](https://www.linkedin.com/in/oussama-qouti-105bb820a/)
+
+[Abdeljalil EL MAJJODI](https://www.linkedin.com/in/abdeljalil-el-majjodi/)
+
+[Mahmoud Bidry ](https://www.linkedin.com/in/mahmoudbidry/)
+
+[Azedin Sahir](https://www.linkedin.com/in/azeddin-sahir/)
